@@ -9,7 +9,7 @@ What is Program?
 - A computer program is a ways to tell a computer what to do.
 - A computer program is a list of ordered instructions --- that we write using a programming language that the computer understands. 
 
-## What is Algorithm:
+### What is Algorithm:
 
 A computational procedure that takes 
 - some value , or set of values , as input 
@@ -26,22 +26,22 @@ Example :
 |Finding the shortest path between two position |"MAP" / Location 1/ Location 2            |"Get the time"            |
 
 
-## Linear Search Algorithm
-   1. Start from leftmost element of arr[] and one by one compare x with each element of arr[].
-	2. if x matches with an element, return the index.
-	3. If x doesn't match with any of elements, return -1.
+### Linear Search Algorithm
+1. Start from leftmost element of arr[] and one by one compare x with each element of arr[].
+2. if x matches with an element, return the index.
+3. If x doesn't match with any of elements, return -1.
 
 	 
 > **Note:** The **Pseudo code** is closer to human language but . English>Pseudo-code>real programming language changes with processions. 
 
 
-## Objective:
+### Objective:
 
-- Theory :
-- Analysis:
-- Design :
+- Theory 
+- Analysis
+- Design 
 
-## Will learn: 
+### Will learn: 
 - Sorting Algorithm
 - Searching Algorithm
 - Graph Algorithm 
