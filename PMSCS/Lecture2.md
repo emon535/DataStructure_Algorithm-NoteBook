@@ -1,11 +1,13 @@
 
 Masters program algorithm course notebook
 
+> 04 October, 2019
+
 # Lecture 2
 ## Sorting Algorithm
 - Insertion Sort: 
-  -- Sorted List 
-  -- Unsorted list
+  - Sorted List 
+  - Unsorted list
 
 
 What is Array and Structure? 
@@ -91,7 +93,7 @@ What we can control ?
 ### The purpose of Asymptotic Analysis : 
 - >?
 
-### Asymptotic Notation : 
+## Asymptotic Notation :  
 - Big O notation : **O(g(n))** is the set of functions with smaller or same order of growth as **g(n)**
 
 <img src="https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-1-4842-3988-9_1/MediaObjects/465726_1_En_1_Fig1_HTML.jpg" width="400">

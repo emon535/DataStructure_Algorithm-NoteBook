@@ -1,4 +1,5 @@
 # Welcome to Algorithm !
+> 13 Sept, 2019
 
 Masters program algorithm course notebook
 
