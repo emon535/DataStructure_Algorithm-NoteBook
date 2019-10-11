@@ -5,9 +5,9 @@ Masters program algorithm course notebook
 # Lecture 3
 ### Asymptotic Notation
 ## O notation ( Big Oh! )
-    > ∃  : There exist atleast one value 
 
-    > ∀ : Universal quantifier;  ( far all value)
+-  ∃  : There exist atleast one value 
+- ∀ : Universal quantifier;  ( far all value)
 
 ### **Example : 1 ** 
     Show that 30n+8 is O(n).
