@@ -9,7 +9,7 @@ Masters program algorithm course notebook
 -  ∃  : There exist atleast one value 
 - ∀ : Universal quantifier;  ( far all value)
 
-### **Example : 1 ** 
+### **Example : 1** 
     Show that 30n+8 is O(n).
 
     Show ∃c, n0 : 30n+8 <cn , ∀n >=n0
@@ -101,8 +101,8 @@ public static void reduce (int[] value){
 
 // total complexity 1+n+1+n = 2n+2
 ```
-:exclamation:
-> ? Exam Alert : Some code may come and need to reduce what is the big O of the code. 
+
+> :exclamation: Exam Alert : Some code may come and need to reduce what is the big O of the code. 
 
 
 **Exampe #4:**
@@ -186,4 +186,4 @@ public class InsertionSortExample {
 ```
 
 
-> Exam Alert : What is the Big O of Insertion Sort.
+> :exclamation: Exam Alert : What is the Big O of Insertion Sort.
