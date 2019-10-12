@@ -163,7 +163,7 @@ for k --> 2 to n :
   i <--i-1
 A[i+1] <-- key
 ```
-
+> Exam Hints
 
 Java code : 
 
