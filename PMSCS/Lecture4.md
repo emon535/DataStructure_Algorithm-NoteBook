@@ -16,6 +16,7 @@ Masters program algorithm course notebook
 > Exam digest
 > - Code complexity 
 > - No peseudo code 
+> 
 
     ```
     sum = 0;
