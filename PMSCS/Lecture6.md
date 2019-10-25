@@ -136,7 +136,7 @@ Graph:
 
 
 
-####  :family_woman_girl_boy:  Max Heap: 
+####  :family_woman_girl_boy:  Max Heap
 
 > Voilation of Max heap: 
 - If a node is smaller then it's child: ( viloation of max heap)
