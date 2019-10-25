@@ -77,3 +77,33 @@ Master Rule:
 -> 	:boom: [ MERGE SORT VS QUICK SORT ]
 - MERGE SORT TAKES MORE MEMORY THEN QUICK SORT
 - RANDOMIZED QUICK SORT IS FASTER then MERGE SORT
+
+
+
+## :yellow_heart::yellow_heart:  HEAPSORT
+
+> Every tree is graph but not every graph is tree.
+
+Tree: 
+- minimally connected graph and having only one path between any two vertices.
+- Tree is a special case of graph having no loops, no circuits and no self-loops.	
+- Different types of trees are : Binary Tree , Binary Search Tree, AVL tree, Heaps.	
+- Tree always has n-1 edges.	
+
+Graph: 
+- There can be cycle in graph
+- In graph there is no such concept of root node.
+- There are mainly two types of Graphs : Directed and Undirected graphs.
+
+
+
+### :seedling: Full Binary Tree: 
+- If there is child , it should be 2, if not No child. :family_woman_woman_girl_boy:	or :couple:	
+
+### :seedling: Complete Binary Tree: 
+- It should be LEFT Filled up ( Fill up first with left ). 
+- Same level siblings :monkey_face: :monkey_face: are full/ Filled up.
+
+<img src ="https://web.cecs.pdx.edu/~sheard/course/Cs163/Graphics/CompleteBinary.jpg" width="400px"> 
+
+
