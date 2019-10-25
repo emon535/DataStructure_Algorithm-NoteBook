@@ -122,10 +122,35 @@ Graph:
 
 
 
-## :rainbo HEAP : 
+## :rainbo HEAP
+- Complete binary tree( Max heap/ Min heap) : 
 - There is two types of heap. 
     - Mean Heap
     - Max Heap
 - Complete binary tree :seedling:
-- Can be stored in Array. 
-- 
+- Can be stored in Array as it's a complete binary tree. 
+
+
+:rocket: Implementation of HEAP : 
+
+<img src = "https://www.ideserve.co.in/learn/img/max-heap-represented-by-array.gif" width="500px">
+
+
+
+:family_woman_girl_boy: Max Heap: 
+> Voilation of Max heap: 
+- If a node is smaller then it's child: ( viloation of max heap)
+    - divide the tree into left and right sub tree. 
+    - make sure the left and right sub tree are **Max Heap**
+    - Exchange with the larger child.
+    - Move down to the tree.
+    
+<img src="https://image.slideserve.com/1450135/max-heapify-example-n.jpg" width="500px">
+
+
+Learn more [HEAPSORT](http://staff.ustc.edu.cn/~csli/graduate/algorithms/book6/chap07.htm)
+
+
+
+
+:japanese_ogre: EXAM Till Heapify.
