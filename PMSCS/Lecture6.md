@@ -5,7 +5,7 @@ Masters program algorithm course notebook
 # Lecture 6
 
 
-### [ Quick Sort ]
+### :yellow_heart: [ Quick Sort ]
 
 - There will be a pivote to traverse the elements
 - check each element against pivote
@@ -80,7 +80,7 @@ Master Rule:
 
 
 
-## :yellow_heart::yellow_heart:  HEAPSORT
+## :yellow_heart:  HEAPSORT
 
 > Every tree is graph but not every graph is tree.
 
@@ -107,3 +107,25 @@ Graph:
 <img src ="https://web.cecs.pdx.edu/~sheard/course/Cs163/Graphics/CompleteBinary.jpg" width="400px"> 
 
 
+- Complete binary tree can be **FULL Binary tree**
+- 
+
+:herb:	 Height of a node = the number of edges on the longest simple path from the node down to a leaf.
+:herb:	Level of node = the length of a path from the root to the node
+:herb:	Height of tree = height of root node.
+
+
+### :dart: Useful Properties
+- There are at most 2^l nodes at level ( or depth ) l of a binary tree. 
+- IF the height/ depth is *d* there is at most 2^(d+1) - 1 nodes.
+- A Binary tree with n ndes had depth at least  floor[ **log(n)** ].
+
+
+
+## :rainbo HEAP : 
+- There is two types of heap. 
+    - Mean Heap
+    - Max Heap
+- Complete binary tree :seedling:
+- Can be stored in Array. 
+- 
