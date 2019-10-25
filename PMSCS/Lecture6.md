@@ -1,6 +1,6 @@
 Masters program algorithm course notebook
 
-> 24 Oct, 2019
+> 25 Oct, 2019
 
 # Lecture 6
 
