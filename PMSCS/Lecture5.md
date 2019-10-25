@@ -65,3 +65,13 @@ From Previous class refresher:
 > 
 
 - Time complexity for MergeSort is ***n*Log(n);**
+
+ - 8
+    - 4
+        - 2
+        - 2
+    - 4
+        - 2 
+        - 2
+        
+? :sunglasses: In All case The complexity of merge sort is **nLog(n)**
