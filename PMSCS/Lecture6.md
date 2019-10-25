@@ -121,7 +121,7 @@ Graph:
 
 
 
-### :rainbo: HEAP
+### :rainbow: HEAP
 - Complete binary tree( Max heap/ Min heap) : 
 - There is two types of heap. 
     - Mean Heap
@@ -136,9 +136,10 @@ Graph:
 
 
 
-####  :family_woman_girl_boy:  Max Heap
+#### :cloud_with_snow:  Max Heap
 
 > Voilation of Max heap: 
+
 - If a node is smaller then it's child: ( viloation of max heap)
     - divide the tree into left and right sub tree. 
     - make sure the left and right sub tree are **Max Heap**
