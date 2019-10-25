@@ -153,4 +153,9 @@ Learn more [HEAPSORT](http://staff.ustc.edu.cn/~csli/graduate/algorithms/book6/c
 
 
 
+
 :japanese_ogre: EXAM Till Heapify.
+
+- Quick sort complixity
+- heapify able or not ?
+- Quick sort steps 
