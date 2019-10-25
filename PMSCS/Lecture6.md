@@ -108,21 +108,20 @@ Graph:
 
 
 - Complete binary tree can be **FULL Binary tree**
-- 
 
-:herb:	 Height of a node = the number of edges on the longest simple path from the node down to a leaf.
-:herb:	Level of node = the length of a path from the root to the node
-:herb:	Height of tree = height of root node.
+- :herb:	 Height of a node = the number of edges on the longest simple path from the node down to a leaf.
+- :herb:	Level of node = the length of a path from the root to the node
+- :herb:	Height of tree = height of root node.
 
 
-### :dart: Useful Properties
+#### :dart: Useful Properties
 - There are at most 2^l nodes at level ( or depth ) l of a binary tree. 
 - IF the height/ depth is *d* there is at most 2^(d+1) - 1 nodes.
 - A Binary tree with n ndes had depth at least  floor[ **log(n)** ].
 
 
 
-## :rainbo HEAP
+### :rainbo: HEAP
 - Complete binary tree( Max heap/ Min heap) : 
 - There is two types of heap. 
     - Mean Heap
@@ -137,7 +136,8 @@ Graph:
 
 
 
-:family_woman_girl_boy: Max Heap: 
+####  :family_woman_girl_boy:  Max Heap: 
+
 > Voilation of Max heap: 
 - If a node is smaller then it's child: ( viloation of max heap)
     - divide the tree into left and right sub tree. 
