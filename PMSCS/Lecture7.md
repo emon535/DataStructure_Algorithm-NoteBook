@@ -2,7 +2,7 @@ Masters program algorithm course notebook
 
 > 26 Oct, 2019
 
-# Lecture 6
+# Lecture 7
 
 
 
@@ -87,3 +87,11 @@ Step 2: Build Max heap:
 
 
 > TODO  : LEARN HEAP SORT and Implimentation ( NOT FOR EXAM )
+
+
+
+> Date of Exam : 1.11.19
+EXAM QUESTIONS : 
+1. Get the array sorted with quick sort and show the steps: 
+2. Find the best case of the quick sort
+or Find the worse case for the quick sort
