@@ -87,3 +87,10 @@ Step :four:
 - Found 3's index value is 5.  value is 3 - So the index of 5's value ( 3 ) is 3
 - -1 from the modified temp array element ( 5's value will be 4)
 - 
+
+
+
+## :dart: Stable Sort :
+
+- Output and Input order will be same. 
+- :alert: What is stable Sort ? 
