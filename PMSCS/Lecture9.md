@@ -93,4 +93,44 @@ Step :four:
 ## :dart: Stable Sort :
 
 - Output and Input order will be same. 
-- :alert: What is stable Sort ? 
+- 👹 What is stable Sort ? :warning:
+
+
+
+## :dart: Radix Sort :
+
+-  Digit by Digit Sorting.
+-  Can be eighter most significant digit first or least significant digit first. 
+- A good way to stably sort least significant digit first. 
+  
+
+## 🎯 Greedy Problem : 
+
+  - solves Optimization problem
+  - Example: 
+    - Activity Selection Problem
+    - Dijkstra Shortest Path problem
+    - Minimum spanning Tree prblem
+    - ⚠️ defination will be less, more conceptual questions will be on exam.
+
+
+
+#### 🚩 Optimal Solution : 
+  - Global Optimal Solution : The main problem solution is the global optimal solution. 
+
+
+:new: Decision Problem : All the connected vertex should have unique colors
+:one: Search Probelm:
+  -  3 coloring Search Problem : 
+
+:two: Optimization Problem : 
+3️⃣ Coin Changing Problem : Guveb ciubg debinubatuibs us { C } , makes change for a given amount  A with the minimum number of coins.
+-  Example : 
+  Coing denominations C = { 25, 10, 5, 1} amount to change . A = 73
+    - Choose 2 25 coin so remaining 23
+    - choose 2 10 coin, so remaining 3
+    - choose 0 5 coin, so remaining 3
+    - choose 3 1 coin, so remaining 0
+
+
+:four:
