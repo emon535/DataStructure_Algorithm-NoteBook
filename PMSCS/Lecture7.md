@@ -6,7 +6,7 @@ Masters program algorithm course notebook
 
 
 
-## :dert: Heapify 
+## :dart: Heapify 
 
 ### MAX HEAPIFY
 

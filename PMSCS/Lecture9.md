@@ -1,8 +1,8 @@
 Masters program algorithm course notebook
 
-:date: Nov, 2019
+:date: 13 Nov, 2019
 
-# Lecture 8
+# Lecture 9
 
 
 
