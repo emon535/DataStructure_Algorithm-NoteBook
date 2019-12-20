@@ -1,6 +1,6 @@
 Masters program algorithm course notebook
 
-:date: 13 Nov, 2019
+:date: 13 Dec, 2019
 
 # Lecture 9
 
@@ -124,7 +124,8 @@ Step :four:
   -  3 coloring Search Problem : 
 
 :two: Optimization Problem : 
-3️⃣ Coin Changing Problem : Guveb ciubg debinubatuibs us { C } , makes change for a given amount  A with the minimum number of coins.
+      
+    3️⃣ Coin Changing Problem : Guveb ciubg debinubatuibs us { C } , makes change for a given amount  A with the minimum number of coins.
 -  Example : 
   Coing denominations C = { 25, 10, 5, 1} amount to change . A = 73
     - Choose 2 25 coin so remaining 23
